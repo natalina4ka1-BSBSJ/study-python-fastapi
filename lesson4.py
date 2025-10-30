@@ -1,4 +1,4 @@
-git add.
 
-name= "jonn"
-
+name = "Jonn"
+Name = "Jonn"
+print(name, Name)
