@@ -19,6 +19,7 @@ print(num_3)
 #----------------
 
 # 2) Inequality
+
 num_1 = 10
 num_2 = 5
 
@@ -61,7 +62,6 @@ num_2 = 5
 # Wenn die Anzahl der Teller größer ist als die Gesamtzahl der Teller.
 
 # якщо кількість тарілок значно більше ніж сумарна кількість тарілок
-
 
 num_3 = num_1 > num_2
 print(num_3)
